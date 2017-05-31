@@ -1,3 +1,6 @@
+# THIS REPO IS Deprecated
+evernote-js-sdk v2 already did this
+
 # evernote-rsvp
 use rsvp wrap evernote api
 
